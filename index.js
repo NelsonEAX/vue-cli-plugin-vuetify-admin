@@ -1,0 +1,1 @@
+module.exports = (api, options, rootOptions) => {    api.extendPackage({        dependencies: {            'vuetify': '^2.1.15',        },    });}
